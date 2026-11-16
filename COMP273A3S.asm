@@ -1,6 +1,3 @@
-# Name: Keeney Zhang
-# Student ID: 261146308
-
 
 .data
 command: .asciiz "Commands (encrypt, decrypt, quit): "
